@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+#root{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  background-image: url('https://img.freepik.com/vector-gratis/bon-appetit-patron-fondo-transparente-ingredientes-dispersos-utensilios-cocina-hacer-pasta-ravioles-italianos-formato-cuadrado-adecuado-papel-tapiz-tela_1284-44086.jpg?w=2000'); 
+  background-color: rgba(253, 254, 255, 0.419);
+  background-blend-mode: multiply;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: 'Outfit', sans-serif;
+}
+.main{
+  flex-grow: 1;
+} 
+.bg-footer{
+  background-color: rgb(25, 106, 109);
+}
+.bg-menu{
+  background-color: rgb(25, 106, 109);
+}
+.letraBlanca{
+  color: rgb(230, 230, 230);
+}
